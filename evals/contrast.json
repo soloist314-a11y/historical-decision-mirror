@@ -1,0 +1,10 @@
+[
+  {"test_id":"C09-01","case_id":"HD-025","expected_pair":"CP-001"},
+  {"test_id":"C09-02","case_id":"HD-106","expected_pair":"CP-002"},
+  {"test_id":"C09-03","case_id":"HD-111","expected_pair":"CP-003"},
+  {"test_id":"C09-04","case_id":"HD-108","expected_pair":"CP-004"},
+  {"test_id":"C09-05","case_id":"HD-080","expected_pair":"CP-006"},
+  {"test_id":"C09-06","case_id":"HD-084","expected_pair":"CP-008"},
+  {"test_id":"C09-07","case_id":"HD-098","expected_pair":"CP-012"},
+  {"test_id":"C09-08","case_id":"HD-113","expected_pair":"CP-013"}
+]

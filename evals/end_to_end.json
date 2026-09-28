@@ -1,0 +1,7 @@
+[
+  {"test_id":"CE09-01","query":"创始人一直个人提拔并保护我，但他马上退休，新老板跟我没关系，我是否应在交接前降低依赖","expected_primary":"HD-106","expected_pair":"CP-002"},
+  {"test_id":"CE09-02","query":"A前期贡献最大，但B在最近危机中贡献更大，现在奖金和名位是否应该动态重新排序","expected_primary":"HD-108","expected_pair":"CP-004"},
+  {"test_id":"CE09-03","query":"合作方已经经营关键区域多年并建立团队，现在我想收回授权，但对方拖延拒绝而且可能发生冲突","expected_primary":"HD-081","expected_pair":"CP-006"},
+  {"test_id":"CE09-04","query":"董事会已经停损叫停项目，但一线负责人觉得只差一步而且无功而返很丢脸，仍想继续做","expected_primary":"HD-103","expected_pair":"CP-008"},
+  {"test_id":"CE09-05","query":"上一任明确承诺保护某核心高管，但换届后新领导听到利益相关者指控，这个旧保护还自动有效吗","expected_primary":"HD-112","expected_pair":"CP-003"}
+]

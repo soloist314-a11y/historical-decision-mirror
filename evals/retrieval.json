@@ -1,0 +1,62 @@
+[
+  {
+    "test_id": "V09-01",
+    "query": "创始人一直个人提拔并保护我，但他马上退休，新老板跟我没关系，我是否应在交接前降低依赖",
+    "expected_top1": "HD-106",
+    "mechanism": "sponsor_dependency_risk"
+  },
+  {
+    "test_id": "V09-02",
+    "query": "项目阶段目标已经完成，公司对某合伙人的依赖明显下降，原有权限和利益是不是应该重新谈",
+    "expected_top1": "HD-107",
+    "mechanism": "phase_change_reallocation"
+  },
+  {
+    "test_id": "V09-03",
+    "query": "A前期贡献最大，但B在最近危机中贡献更大，现在奖金和名位是否应该动态重新排序",
+    "expected_top1": "HD-108",
+    "mechanism": "dynamic_contribution_regrading"
+  },
+  {
+    "test_id": "V09-04",
+    "query": "某人在危机中立了大功，但下一阶段进入常态运营，他的能力并不适合继续当最高负责人",
+    "expected_top1": "HD-109",
+    "mechanism": "phase_role_fit_reallocation"
+  },
+  {
+    "test_id": "V09-05",
+    "query": "我准备交班，新领导将接手我留下的核心高管，是否应该让新领导重新确认这些人的正式授权",
+    "expected_top1": "HD-110",
+    "mechanism": "successor_mandate_reset"
+  },
+  {
+    "test_id": "V09-06",
+    "query": "新领导刚接手前任留下的核心高管，是否应该由新领导重新任命和确认授权",
+    "expected_top1": "HD-111",
+    "mechanism": "successor_mandate_reset"
+  },
+  {
+    "test_id": "V09-07",
+    "query": "上一任明确承诺保护某核心高管，但换届后新领导听到利益相关者指控，这个旧保护还自动有效吗",
+    "expected_top1": "HD-112",
+    "mechanism": "predecessor_commitment_continuity"
+  },
+  {
+    "test_id": "V09-08",
+    "query": "谈判代表已经答应不追责，对方也基于承诺行动了，总部事后是否应该承接这个代表的组织信用",
+    "expected_top1": "HD-113",
+    "mechanism": "organizational_ratification_of_agent_commitment"
+  },
+  {
+    "test_id": "V09-09",
+    "query": "早期合伙人贡献很高，后来贡献下降；另一位合伙人后期承担了更关键的危机任务。下一轮奖金和名位应该怎样重新调整",
+    "expected_top1": "HD-108",
+    "mechanism": "dynamic_contribution_regrading"
+  },
+  {
+    "test_id": "V09-10",
+    "query": "前任老板对我有很强的私人保护，但没有写进制度，新老板很快上任，我现在最该检查的是不是个人赞助人依赖和退出窗口",
+    "expected_top1": "HD-106",
+    "mechanism": "sponsor_dependency_risk"
+  }
+]

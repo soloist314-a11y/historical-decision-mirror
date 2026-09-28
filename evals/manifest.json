@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "suites": [
+    {
+      "id": "entry",
+      "status": "implemented",
+      "kind": "component"
+    },
+    {
+      "id": "negative_analogy_contract",
+      "status": "implemented",
+      "kind": "component"
+    },
+    {
+      "id": "legacy_retrieval",
+      "status": "implemented",
+      "reported_count": 10
+    },
+    {
+      "id": "legacy_contrast",
+      "status": "implemented",
+      "reported_count": 8
+    },
+    {
+      "id": "legacy_end_to_end",
+      "status": "implemented",
+      "reported_count": 5
+    },
+    {
+      "id": "legacy_regression",
+      "status": "implemented",
+      "reported_count": 18
+    },
+    {
+      "id": "evidence_and_database",
+      "status": "implemented"
+    },
+    {
+      "id": "free_text_analogy_behavior",
+      "status": "implemented",
+      "kind": "manual_independent_forward_test",
+      "note": "Evaluated separately; not counted as automated test execution."
+    }
+  ]
+}

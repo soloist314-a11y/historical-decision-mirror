@@ -1,0 +1,17 @@
+[
+  {"id":"names_without_structure","patch":{"structural_score":0},"expected_errors":["no_structural_support"]},
+  {"id":"wrong_role","patch":{"role_match":false},"expected_errors":["role_mismatch"]},
+  {"id":"opposite_mechanism","patch":{"mechanism_match":false},"expected_errors":["mechanism_mismatch"]},
+  {"id":"no_boundary","patch":{"critical_differences":[]},"expected_errors":["missing_critical_differences"]},
+  {"id":"unavailable_source","patch":{"evidence_status":"unavailable"},"expected_errors":["evidence_not_verified"]},
+  {"id":"source_contradiction","patch":{"evidence_status":"mismatch"},"expected_errors":["evidence_not_verified"]},
+  {"id":"old_verified_flag_not_current_read","patch":{"evidence_status":"unverified"},"expected_errors":["evidence_not_verified"]},
+  {"id":"missing_contrast","patch":{"contrast_status":"missing"},"expected_errors":["contrast_not_verified"]},
+  {"id":"unchecked_contrast","patch":{"contrast_status":"unverified"},"expected_errors":["contrast_not_verified"]},
+  {"id":"outcome_leaked_into_t0","patch":{"hindsight_used_as_t0":true},"expected_errors":["hindsight_used_as_t0"]},
+  {"id":"ancient_power_cancels_modern_rights","patch":{"modern_rights_overtransfer":true},"expected_errors":["modern_rights_overtransfer"]},
+  {"id":"fabricated_user_priorities","patch":{"invented_user_values":true},"expected_errors":["invented_user_values"]},
+  {"id":"unknown_source_state","patch":{"evidence_status":"PASS"},"expected_errors":["invalid_evidence_status"]},
+  {"id":"truthy_string_is_not_boolean","patch":{"role_match":"false"},"expected_errors":["invalid_role_match"]},
+  {"id":"score_out_of_range","patch":{"structural_score":2},"expected_errors":["invalid_score"]}
+]

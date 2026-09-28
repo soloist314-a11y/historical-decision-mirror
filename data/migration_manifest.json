@@ -1,0 +1,160 @@
+{
+  "source_archive_sha256": "a03ca4815852142270944fdd5844ba80eba8d09024d91c0ac13b5957346e2d22",
+  "source_version": "0.9",
+  "package_version": "1.0.0",
+  "case_record_version": "0.9 (preserved, data unchanged)",
+  "mapping": [
+    {
+      "original": "seed_cases_v0.9.jsonl",
+      "target": "data/decision_nodes.jsonl",
+      "original_sha256": "98a3d187f12ade038a03f95fe2eb30a7d83c3d7a76cfa430f986c716662b0b19",
+      "target_sha256": "98a3d187f12ade038a03f95fe2eb30a7d83c3d7a76cfa430f986c716662b0b19"
+    },
+    {
+      "original": "contrast_pairs_v0.9.jsonl",
+      "target": "data/contrast_pairs.jsonl",
+      "original_sha256": "0bf460dd9cfd17fbd24c0299106e1f033aea628a621ee2faa47918da3978005b",
+      "target_sha256": "0bf460dd9cfd17fbd24c0299106e1f033aea628a621ee2faa47918da3978005b"
+    },
+    {
+      "original": "source_registry.json",
+      "target": "data/source_registry.json",
+      "original_sha256": "26e3fff2af23a6a1ded90aad9de9ac3ce26293acebce76399ac5cb2b6f5464c9",
+      "target_sha256": "a3805c0c22622440226eb57d9f9c5266dc0652d967835a229678e487614fc1e5"
+    },
+    {
+      "original": "zztj_volume_integrity_v0.2.json",
+      "target": "data/source_integrity.json",
+      "original_sha256": "0335b4c5ec6b7555ce5a6f4685f6eb1ee03027d4feeeec776d8bfac93b9f077b",
+      "target_sha256": "0335b4c5ec6b7555ce5a6f4685f6eb1ee03027d4feeeec776d8bfac93b9f077b"
+    },
+    {
+      "original": "shiji_wikisource_index_v0.1.json",
+      "target": "data/shiji_index.json",
+      "original_sha256": "b3451367e4640d4028d78a76599b86242d02d95ae5393e93c3995b39e695f467",
+      "target_sha256": "b3451367e4640d4028d78a76599b86242d02d95ae5393e93c3995b39e695f467"
+    },
+    {
+      "original": "retrieval_tests_v0.9.json",
+      "target": "evals/retrieval.json",
+      "original_sha256": "694e01a92c174a114f625307863337f8201a2dc31efb250bf6e656fd39727cce",
+      "target_sha256": "694e01a92c174a114f625307863337f8201a2dc31efb250bf6e656fd39727cce"
+    },
+    {
+      "original": "contrast_tests_v0.9.json",
+      "target": "evals/contrast.json",
+      "original_sha256": "2778ec25a4604e2b6a7630f3e192848f5118aa32ebce0b75cbe946f4569efc40",
+      "target_sha256": "2778ec25a4604e2b6a7630f3e192848f5118aa32ebce0b75cbe946f4569efc40"
+    },
+    {
+      "original": "contrast_e2e_tests_v0.9.json",
+      "target": "evals/end_to_end.json",
+      "original_sha256": "6a524256aa2a918e11d0b10092194c74fc01f0de5a32edb265410905d41e7a9e",
+      "target_sha256": "6a524256aa2a918e11d0b10092194c74fc01f0de5a32edb265410905d41e7a9e"
+    },
+    {
+      "original": "backward_regression_tests_v0.9.json",
+      "target": "evals/regression.json",
+      "original_sha256": "a47cafb7a6c78ce98526897bce6f53e2b73d8310257449f1684d2af797985c7c",
+      "target_sha256": "a47cafb7a6c78ce98526897bce6f53e2b73d8310257449f1684d2af797985c7c"
+    },
+    {
+      "original": "zztj_integrity_report_v0.2.md",
+      "target": "references/source-integrity-report.md",
+      "original_sha256": "c1f8eef4f54019ae6ac430d5db93d2f3209ca9759e137625e17ddec8c3406211",
+      "target_sha256": "c1f8eef4f54019ae6ac430d5db93d2f3209ca9759e137625e17ddec8c3406211"
+    },
+    {
+      "original": "case_migration_notes_v0.9.md",
+      "target": "references/case-migration-history.md",
+      "original_sha256": "dc072ef514c335406d3194ae5b073212b94af5004ba0202383d78f7c2c56e6c6",
+      "target_sha256": "dc072ef514c335406d3194ae5b073212b94af5004ba0202383d78f7c2c56e6c6"
+    },
+    {
+      "original": "decision_node_catalog_v0.9.md",
+      "target": "references/decision-node-catalog.md",
+      "original_sha256": "003c8ee5e9f026671e7f6b9a71e7ea3a179b94578fff7f050696775791a34603",
+      "target_sha256": "003c8ee5e9f026671e7f6b9a71e7ea3a179b94578fff7f050696775791a34603"
+    },
+    {
+      "original": "mechanism_coverage_v0.9.md",
+      "target": "references/mechanism-coverage.md",
+      "original_sha256": "4291ba08aa22176a4046c5691fe338aa36485f8a4c5ac93990b7bebf35962a49",
+      "target_sha256": "4291ba08aa22176a4046c5691fe338aa36485f8a4c5ac93990b7bebf35962a49"
+    },
+    {
+      "original": "retrieval_prototype_v0.9.py",
+      "target": "scripts/retrieve.py",
+      "original_sha256": "be0ec4d4966bd628169c3f2db823cd655ade1df7454441d02a9c315abcc37e58",
+      "changes": "Relative data paths; retrieval requires explicit ACTIVE status.",
+      "target_sha256": "54b2f89789a99890986947259765ce4232778a34d76ffaafa1a0682024af8797"
+    },
+    {
+      "original": "contrast_retrieval_v0.9.py",
+      "target": "scripts/contrast.py",
+      "original_sha256": "0110007d9a8e83741aa9972bebe73f6c04c24b2ec26e1ba4914d1ebe5e0b770e",
+      "changes": "Relative data paths; retrieval requires explicit ACTIVE status.",
+      "target_sha256": "3d6ef36cd0f91cad19666b687a05d0e07c4e0a8ef8efc43924b35565da2bbda4"
+    },
+    {
+      "original": "skill_v0.9.md",
+      "target": "references/mechanisms-foundation.md",
+      "sections": [
+        "13.",
+        "14.",
+        "15."
+      ],
+      "target_sha256": "286a806653068e6545172a7698bea6fd3584c254831ca3a59f061a46764eddf7"
+    },
+    {
+      "original": "skill_v0.9.md",
+      "target": "references/mechanisms-governance.md",
+      "sections": [
+        "16.",
+        "17."
+      ],
+      "target_sha256": "177606c3f4386dec6d19a25429d615ad90fb12d8f6b6a22464cbe1554391939b"
+    },
+    {
+      "original": "skill_v0.9.md",
+      "target": "references/mechanisms-continuity.md",
+      "sections": [
+        "19.",
+        "20.",
+        "22.",
+        "24."
+      ],
+      "target_sha256": "be7a884bf865797c2651eddb20cf15e9164caef364c97d0747ee4470b01986af"
+    },
+    {
+      "original": "skill_v0.9.md",
+      "target": "references/case-model.md",
+      "sections": [
+        "3.",
+        "4.",
+        "6.",
+        "7.",
+        "8.",
+        "9.",
+        "10."
+      ],
+      "target_sha256": "d1ab38049d9585ca3634ccacabd8b3ace50545be3b9bea34f841ed00e48b9023"
+    },
+    {
+      "original": "skill_v0.9.md",
+      "target": "references/contrast-policy.md",
+      "sections": [
+        "23."
+      ],
+      "target_sha256": "014174a35bcd67acc4095613e2efc18b5740000a1c7defc54d235cda3e10a73c"
+    }
+  ],
+  "changes_to_source_registry": "Updated integrity/index file paths only; source identities preserved.",
+  "skill_section_routing": {
+    "0,0.1": "SKILL.md and references/versioning-policy.md",
+    "1,2": "references/evidence-policy.md and source registry/integrity report",
+    "5": "references/decision-model.md and SKILL.md",
+    "11": "references/output-schema.md",
+    "12,18,21,25": "historical status paragraphs excluded from runtime; original ZIP hash retained"
+  }
+}

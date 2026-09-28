@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "title": "资治通鉴全译本（柏杨版）",
+      "author_editor": "司马光等；柏杨译",
+      "source_type": "user_designated_google_drive_epub",
+      "drive_file_id": "1gGMiyqcs0vQOK1x-jDuB0iqDcqaQzEFr",
+      "mime_type": "application/epub+zip",
+      "coverage": "用户指定EPUB可识别282/294卷；确认缺失12卷（72、73、86、101、156、189、214—218、223）",
+      "use": [
+        "历史事件召回",
+        "司马光原文证据",
+        "臣光曰史家评论",
+        "柏杨译文辅助理解"
+      ],
+      "citation_rule": "《资治通鉴》卷X·X纪·帝王年号/年份；原文与柏杨译文分层",
+      "notes": "司马光原文为证据层；臣光曰为史家评论层；柏杨译文为辅助理解层。EPUB存在确认缺卷、完全重复chapter和少量标题错字。",
+      "integrity_map": "source_integrity.json",
+      "integrity_report": "../references/source-integrity-report.md",
+      "retrieval_rule": "引用前检查卷级完整性；MISSING_CONFIRMED只能报告当前底本缺口，不得推断原书无记载；DUPLICATE_EXACT去重。"
+    },
+    {
+      "source_id": "SHIJI_WIKISOURCE",
+      "title": "史记",
+      "author_editor": "司马迁",
+      "source_type": "wikisource",
+      "root_url": "https://zh.wikisource.org/zh-hans/史記",
+      "coverage": "130卷",
+      "use": [
+        "历史事件与人物决策原文",
+        "太史公曰史家评论"
+      ],
+      "citation_rule": "《史记》卷X·《篇名》；引用对应维基文库卷页",
+      "notes": "以维基文库正文页为指定《史记》底本；百科、博客、二手文章不作为核心证据。",
+      "index_file": "shiji_index.json",
+      "retrieval_rule": "以130卷卷页为指定底本；页面编辑者添加的小标题/后世注释不得冒充司马迁正文；命中案例后回读完整事件段。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+private_sources/
+*.epub
+*.pdf
+*.zip
+*.sqlite
+*.db
+.venv/

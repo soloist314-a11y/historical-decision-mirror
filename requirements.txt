@@ -1,0 +1,2 @@
+scikit-learn==1.6.1
+beautifulsoup4==4.15.0

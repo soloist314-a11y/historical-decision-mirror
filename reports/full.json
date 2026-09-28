@@ -1,0 +1,1244 @@
+{
+  "timestamp": "2026-09-28T03:06:03.662540+00:00",
+  "scope": "full_with_source_anchors",
+  "status": "PASS",
+  "executed": 207,
+  "passed": 207,
+  "failed": 0,
+  "pending_suites": [],
+  "source_recheck": true,
+  "release_allowed": true,
+  "results": [
+    {
+      "id": "entry_0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_2",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_3",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_4",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_5",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_2",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_3",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_4",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "positive_contract",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "names_without_structure",
+      "status": "PASS",
+      "detail": [
+        "no_structural_support"
+      ]
+    },
+    {
+      "id": "wrong_role",
+      "status": "PASS",
+      "detail": [
+        "role_mismatch"
+      ]
+    },
+    {
+      "id": "opposite_mechanism",
+      "status": "PASS",
+      "detail": [
+        "mechanism_mismatch"
+      ]
+    },
+    {
+      "id": "no_boundary",
+      "status": "PASS",
+      "detail": [
+        "missing_critical_differences"
+      ]
+    },
+    {
+      "id": "unavailable_source",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "source_contradiction",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "old_verified_flag_not_current_read",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "missing_contrast",
+      "status": "PASS",
+      "detail": [
+        "contrast_not_verified"
+      ]
+    },
+    {
+      "id": "unchecked_contrast",
+      "status": "PASS",
+      "detail": [
+        "contrast_not_verified"
+      ]
+    },
+    {
+      "id": "outcome_leaked_into_t0",
+      "status": "PASS",
+      "detail": [
+        "hindsight_used_as_t0"
+      ]
+    },
+    {
+      "id": "ancient_power_cancels_modern_rights",
+      "status": "PASS",
+      "detail": [
+        "modern_rights_overtransfer"
+      ]
+    },
+    {
+      "id": "fabricated_user_priorities",
+      "status": "PASS",
+      "detail": [
+        "invented_user_values"
+      ]
+    },
+    {
+      "id": "unknown_source_state",
+      "status": "PASS",
+      "detail": [
+        "invalid_evidence_status"
+      ]
+    },
+    {
+      "id": "truthy_string_is_not_boolean",
+      "status": "PASS",
+      "detail": [
+        "invalid_role_match"
+      ]
+    },
+    {
+      "id": "score_out_of_range",
+      "status": "PASS",
+      "detail": [
+        "invalid_score"
+      ]
+    },
+    {
+      "id": "reject_score_nan",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "reject_score_infinity",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "reject_score_bool",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_decision",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_structural_score",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_role_match",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_mechanism_match",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_critical_differences",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_evidence_status",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_hindsight_used_as_t0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_modern_rights_overtransfer",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_invented_user_values",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_contrast_status",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "honest_abstention",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "invalid_root",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "database_structure",
+      "status": "PASS",
+      "detail": {
+        "records": 113,
+        "active": 110,
+        "deprecated": 3,
+        "contrast_pairs": 15,
+        "errors": [],
+        "scope": "offline_structure_only; historical evidence flags are not current verification"
+      }
+    },
+    {
+      "id": "retrieval:V09-01",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-106",
+          "HD-033",
+          "HD-095"
+        ],
+        "expected": "HD-106"
+      }
+    },
+    {
+      "id": "retrieval:V09-02",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-107",
+          "HD-025",
+          "HD-001"
+        ],
+        "expected": "HD-107"
+      }
+    },
+    {
+      "id": "retrieval:V09-03",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-108",
+          "HD-109",
+          "HD-107"
+        ],
+        "expected": "HD-108"
+      }
+    },
+    {
+      "id": "retrieval:V09-04",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-109",
+          "HD-108",
+          "HD-022"
+        ],
+        "expected": "HD-109"
+      }
+    },
+    {
+      "id": "retrieval:V09-05",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-110",
+          "HD-111",
+          "HD-033"
+        ],
+        "expected": "HD-110"
+      }
+    },
+    {
+      "id": "retrieval:V09-06",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-111",
+          "HD-110",
+          "HD-095"
+        ],
+        "expected": "HD-111"
+      }
+    },
+    {
+      "id": "retrieval:V09-07",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-112",
+          "HD-111",
+          "HD-096"
+        ],
+        "expected": "HD-112"
+      }
+    },
+    {
+      "id": "retrieval:V09-08",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-113",
+          "HD-105",
+          "HD-096"
+        ],
+        "expected": "HD-113"
+      }
+    },
+    {
+      "id": "retrieval:V09-09",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-108",
+          "HD-107",
+          "HD-109"
+        ],
+        "expected": "HD-108"
+      }
+    },
+    {
+      "id": "retrieval:V09-10",
+      "status": "PASS",
+      "detail": {
+        "top3": [
+          "HD-106",
+          "HD-026",
+          "HD-025"
+        ],
+        "expected": "HD-106"
+      }
+    },
+    {
+      "id": "regression:V5-V5-T1",
+      "status": "PASS",
+      "detail": [
+        "HD-049",
+        "HD-080",
+        "HD-046"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T2",
+      "status": "PASS",
+      "detail": [
+        "HD-050",
+        "HD-113",
+        "HD-024"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T3",
+      "status": "PASS",
+      "detail": [
+        "HD-051",
+        "HD-075",
+        "HD-005"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T4",
+      "status": "PASS",
+      "detail": [
+        "HD-053",
+        "HD-085",
+        "HD-013"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T5",
+      "status": "PASS",
+      "detail": [
+        "HD-052",
+        "HD-092",
+        "HD-005"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T6",
+      "status": "PASS",
+      "detail": [
+        "HD-054",
+        "HD-101",
+        "HD-113"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T7",
+      "status": "PASS",
+      "detail": [
+        "HD-055",
+        "HD-010",
+        "HD-027"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T8",
+      "status": "PASS",
+      "detail": [
+        "HD-058",
+        "HD-102",
+        "HD-104"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T9",
+      "status": "PASS",
+      "detail": [
+        "HD-060",
+        "HD-008",
+        "HD-088"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T10",
+      "status": "PASS",
+      "detail": [
+        "HD-059",
+        "HD-078",
+        "HD-099"
+      ]
+    },
+    {
+      "id": "regression:V5-V5-T11",
+      "status": "PASS",
+      "detail": [
+        "HD-057",
+        "HD-080",
+        "HD-081"
+      ]
+    },
+    {
+      "id": "regression:V4-T1_platform_autonomy",
+      "status": "PASS",
+      "detail": [
+        "HD-013",
+        "HD-006",
+        "HD-017"
+      ]
+    },
+    {
+      "id": "regression:V4-T2_reversible_delivery",
+      "status": "PASS",
+      "detail": [
+        "HD-010",
+        "HD-041",
+        "HD-027"
+      ]
+    },
+    {
+      "id": "regression:V4-T3_succession_dual_authority",
+      "status": "PASS",
+      "detail": [
+        "HD-033",
+        "HD-001",
+        "HD-098"
+      ]
+    },
+    {
+      "id": "regression:V4-T4_reward_vs_role",
+      "status": "PASS",
+      "detail": [
+        "HD-022",
+        "HD-055",
+        "HD-053"
+      ]
+    },
+    {
+      "id": "regression:V4-T5_strategic_concession",
+      "status": "PASS",
+      "detail": [
+        "HD-045",
+        "HD-046",
+        "HD-060"
+      ]
+    },
+    {
+      "id": "regression:V4-T6_post_failure_wait",
+      "status": "PASS",
+      "detail": [
+        "HD-048",
+        "HD-088",
+        "HD-082"
+      ]
+    },
+    {
+      "id": "regression:V4-T7_delegation_control",
+      "status": "PASS",
+      "detail": [
+        "HD-047",
+        "HD-027",
+        "HD-085"
+      ]
+    },
+    {
+      "id": "contrast:C09-01",
+      "status": "PASS",
+      "detail": [
+        "CP-001"
+      ]
+    },
+    {
+      "id": "contrast:C09-02",
+      "status": "PASS",
+      "detail": [
+        "CP-002"
+      ]
+    },
+    {
+      "id": "contrast:C09-03",
+      "status": "PASS",
+      "detail": [
+        "CP-003"
+      ]
+    },
+    {
+      "id": "contrast:C09-04",
+      "status": "PASS",
+      "detail": [
+        "CP-004",
+        "CP-015"
+      ]
+    },
+    {
+      "id": "contrast:C09-05",
+      "status": "PASS",
+      "detail": [
+        "CP-006"
+      ]
+    },
+    {
+      "id": "contrast:C09-06",
+      "status": "PASS",
+      "detail": [
+        "CP-008"
+      ]
+    },
+    {
+      "id": "contrast:C09-07",
+      "status": "PASS",
+      "detail": [
+        "CP-012"
+      ]
+    },
+    {
+      "id": "contrast:C09-08",
+      "status": "PASS",
+      "detail": [
+        "CP-013"
+      ]
+    },
+    {
+      "id": "end_to_end:CE09-01",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "end_to_end:CE09-02",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "end_to_end:CE09-03",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "end_to_end:CE09-04",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "end_to_end:CE09-05",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "no_deprecated_leak",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "name_only_abstention:quick",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "mode_pipeline:quick",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "name_only_abstention:deep",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "mode_pipeline:deep",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "name_only_abstention:audit",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "mode_pipeline:audit",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_gate:unverified",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_gate:unavailable",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_gate:mismatch",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-001:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-003:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-004:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-005:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-006:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-007:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-008:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-009:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-010:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-011:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-012:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-013:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-014:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-015:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-017:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-018:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-020:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-021:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-022:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-023:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-024:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-025:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-026:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-027:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-028:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-029:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-030:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-031:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-032:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-033:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-033:1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-034:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-035:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-036:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-037:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-038:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-039:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-040:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-041:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-042:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-043:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-044:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-045:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-046:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-047:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-048:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-049:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-050:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-051:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-052:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-053:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-054:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-055:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-056:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-057:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-058:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-059:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-060:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-061:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-062:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-063:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-064:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-065:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-066:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-067:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-068:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-069:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-070:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-071:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-072:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-073:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-074:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-075:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-076:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-077:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-078:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-079:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-080:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-081:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-082:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-083:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-083:1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-084:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-085:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-086:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-087:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-088:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-089:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-090:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-091:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-092:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-093:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-094:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-095:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-096:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-097:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-098:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-099:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-100:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-101:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-102:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-103:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-104:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-105:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-106:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-107:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-108:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-109:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-110:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-111:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-112:0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-112:1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "source_anchor:HD-113:0",
+      "status": "PASS",
+      "detail": null
+    }
+  ]
+}

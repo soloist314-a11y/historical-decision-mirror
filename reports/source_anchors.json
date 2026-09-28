@@ -1,0 +1,1979 @@
+{
+  "timestamp": "2026-09-28T03:06:03.660948+00:00",
+  "scope": "literal_anchor_location_only",
+  "current_network_refresh": false,
+  "references": 113,
+  "matched": 113,
+  "not_matched": 0,
+  "claim_semantics": "requires contextual reading; not automatically certified",
+  "results": [
+    {
+      "case_id": "HD-001",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·智氏继承",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "智宣子将以瑶为后",
+        "若果立瑶也",
+        "智宗必灭"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-003",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·赵襄子走晋阳",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "其晋阳乎",
+        "先主之所属也",
+        "尹铎之所宽也",
+        "民必和矣",
+        "乃走晋阳"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-004",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·魏文侯赴猎约",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "吾与虞人期猎",
+        "岂可无一会期哉乃往",
+        "身自罢之"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-005",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·李克论相",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "居视其所亲",
+        "富视其所与",
+        "达视其所举",
+        "穷视其所不为",
+        "贫视其所不取",
+        "五者足以定之矣"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-006",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷068·商君列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "公叔座知其贤",
+        "闻秦孝公下令国中求贤者",
+        "乃遂西入秦"
+      ],
+      "file_sha256": [
+        "df64b075ac97e78a24d3b6e05a39f5769f83c1d65cccb6a10792907ab766c305"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-007",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二·周纪二·商鞅徙木",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "令既具未布",
+        "恐民之不信",
+        "乃立三丈之木于国都市南门",
+        "有一人徙之"
+      ],
+      "file_sha256": [
+        "c6843bf49c0ed729f43aa8c5d2653da6bb2a0f88f006d886db4babfdd428c619"
+      ],
+      "volume": 2,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-008",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二·周纪二·桂陵之战",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "田忌欲引兵之赵",
+        "子不若引兵疾走魏都",
+        "田忌从之"
+      ],
+      "file_sha256": [
+        "c6843bf49c0ed729f43aa8c5d2653da6bb2a0f88f006d886db4babfdd428c619"
+      ],
+      "volume": 2,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-009",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二·周纪二·马陵之战前齐救韩",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "齐威王召大臣而谋曰蚤救孰与晚救",
+        "晚承魏之弊"
+      ],
+      "file_sha256": [
+        "c6843bf49c0ed729f43aa8c5d2653da6bb2a0f88f006d886db4babfdd428c619"
+      ],
+      "volume": 2,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-010",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "均之二策",
+        "臣请完璧归赵"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-011",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷080·乐毅列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "霸国之馀业也",
+        "地大人众",
+        "未易独攻也",
+        "王必欲伐之",
+        "莫如与赵及楚魏"
+      ],
+      "file_sha256": [
+        "704606e00bc00e7077a75965bc3dbdd8bed4a4f0c2e2da5e544d1b437f050ccf"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-012",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷082·田单列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "燕昭王卒",
+        "与乐毅有隙",
+        "田单闻之",
+        "乃纵反闲于燕",
+        "燕王以为然",
+        "使骑劫代乐毅"
+      ],
+      "file_sha256": [
+        "405aa93dbcf5b12b02d0f3925108ecadf47db8277c7064dd58db1a54752108ec"
+      ],
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-013",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷092·淮阴侯列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "数以策干项羽",
+        "汉王之入蜀",
+        "信亡楚归汉"
+      ],
+      "file_sha256": [
+        "df8abc93d894bf9d6628707237496975f52cc45bb21a1da87accd920b6a11508"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-014",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷055·留侯世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "良乃更名姓",
+        "亡匿下邳",
+        "旦日视其书",
+        "乃太公兵法也",
+        "良因异之",
+        "常习诵读之"
+      ],
+      "file_sha256": [
+        "b66c76bdf36dffe9466922c7f08dbfde0dd227ed365ce61b94769c2e934456a0"
+      ],
+      "anchor_clauses_checked": 8
+    },
+    {
+      "case_id": "HD-015",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷085·吕不韦列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "质于诸侯",
+        "吕不韦贾邯郸",
+        "见而怜之",
+        "曰此奇货可居"
+      ],
+      "file_sha256": [
+        "6997c7cfcddc390fd5ad2a96bcd8d62cd672aac26bf0b49a18254c823dd1948c"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-017",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十三·汉纪五十五·张绣择曹袁",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "袁强曹弱",
+        "又先与曹为雠",
+        "从之如何",
+        "我以少众从之",
+        "必不以我为重",
+        "曹公众弱",
+        "其得我必喜"
+      ],
+      "file_sha256": [
+        "13a8dc8dac4399119184dc9d71e4a8dcaeb657f7e1c151f782b4e821ffe427f9"
+      ],
+      "volume": 63,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-018",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十五·汉纪五十七·刘琦出镇江夏",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "申生在内而危",
+        "重耳居外而安乎",
+        "琦意感悟",
+        "阴规出计",
+        "琦求代其任",
+        "表乃以琦为江夏太守"
+      ],
+      "file_sha256": [
+        "5b264cdf7de06e81bc8c8778290430d50317de9fc95c13cd5b629181d93decad"
+      ],
+      "volume": 65,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-020",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十一·唐纪七·玄武门之变",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "世民帅长孙无忌等入",
+        "伏兵于玄武门"
+      ],
+      "file_sha256": [
+        "16ce14aada0a17c194cf48483c2a1296bb9017283c909155e2729f77f791f20e"
+      ],
+      "volume": 191,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-021",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百一十九·唐纪三十五·李泌论先范阳后两京",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今以此众直取两京",
+        "然贼必再强",
+        "我必又困",
+        "非久安之策"
+      ],
+      "file_sha256": [
+        "cefa718be2989de9742711117bd8de8dc48db9f3c82f4b54dcda3d482311b573"
+      ],
+      "volume": 219,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-022",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百一十九·唐纪三十五·李泌论酬功",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "古者官以任能",
+        "爵以酬功",
+        "夫以官赏功有二害",
+        "非才则废事",
+        "权重则难制"
+      ],
+      "file_sha256": [
+        "cefa718be2989de9742711117bd8de8dc48db9f3c82f4b54dcda3d482311b573"
+      ],
+      "volume": 219,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-023",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百三十九·唐纪五十五·李绛请重赏魏博",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "钱用尽更来",
+        "机事一失不可复追"
+      ],
+      "file_sha256": [
+        "f97736ffdedd6eb3fa77c68dd04ed3693692c0af3f9af2c938c11212af6d986c"
+      ],
+      "volume": 239,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-024",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百三十九·唐纪五十五·裴度伤愈复出",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "度上言淮西",
+        "腹心之疾",
+        "不得不除",
+        "不可中止",
+        "上以为然"
+      ],
+      "file_sha256": [
+        "f97736ffdedd6eb3fa77c68dd04ed3693692c0af3f9af2c938c11212af6d986c"
+      ],
+      "volume": 239,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-025",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷041·越王勾践世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "范蠡遂去",
+        "大名之下",
+        "难以久居"
+      ],
+      "file_sha256": [
+        "b567df51bc00af04e01873441f134b28160e5b87a3c5a32284de70f7cbf58e2e"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-026",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷041·越王勾践世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "子何不去",
+        "称病不朝"
+      ],
+      "file_sha256": [
+        "b567df51bc00af04e01873441f134b28160e5b87a3c5a32284de70f7cbf58e2e"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-027",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷053·萧相国世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "数使使劳苦君者",
+        "有疑君心也"
+      ],
+      "file_sha256": [
+        "d90a55a7d8525e8b23b35b9ce486f663e3c17f02d827822df31b0051f784cf3f"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-028",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷053·萧相国世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "多买田地",
+        "贱贳贷以自污"
+      ],
+      "file_sha256": [
+        "d90a55a7d8525e8b23b35b9ce486f663e3c17f02d827822df31b0051f784cf3f"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-029",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷055·留侯世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "臣请藉前箸为大王筹之"
+      ],
+      "file_sha256": [
+        "b66c76bdf36dffe9466922c7f08dbfde0dd227ed365ce61b94769c2e934456a0"
+      ],
+      "anchor_clauses_checked": 1
+    },
+    {
+      "case_id": "HD-030",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷076·平原君虞卿列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "臣乃今日请处囊中耳"
+      ],
+      "file_sha256": [
+        "633004a302b74059f7d2e4ff5529fd7ab955a83af886b42ab12d5d0a30423891"
+      ],
+      "anchor_clauses_checked": 1
+    },
+    {
+      "case_id": "HD-031",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷077·魏公子列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "无他端而欲赴秦军",
+        "譬若以肉投馁虎"
+      ],
+      "file_sha256": [
+        "31378cbb3babb9a9b3170be5fa515ff5a0c4fd567dc7c193cf1e2d33d2196c7c"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-032",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷三·周纪三·赵武灵王胡服骑射",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "国人皆不欲",
+        "从政先信于贵"
+      ],
+      "file_sha256": [
+        "0e7c2399dbea3f57818584f6673d5ee4d426c9412cb9186c145799b537606dd0"
+      ],
+      "volume": 3,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-033",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷三·周纪三·传国于何",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "传国于何",
+        "自号主父"
+      ],
+      "file_sha256": [
+        "0e7c2399dbea3f57818584f6673d5ee4d426c9412cb9186c145799b537606dd0"
+      ],
+      "volume": 3,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-033",
+      "ref_index": 1,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷四·周纪四·沙丘之乱",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "欲分赵而王公子章于代"
+      ],
+      "file_sha256": [
+        "3e890a7326e48861da72bb066bd1bfc8f0684d7a3f6482567ffc7e822476cb79"
+      ],
+      "volume": 4,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-034",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六·秦昭襄王五十二年",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "成功者去",
+        "应侯因谢病免"
+      ],
+      "file_sha256": [
+        "d72da7512020dcc4092b9d14201094cdebee39b6e8a2a3234a5f0206ccf1e541"
+      ],
+      "volume": 6,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-035",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十二·汉纪五十四",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "宜早图许",
+        "奉迎天子"
+      ],
+      "file_sha256": [
+        "cabd15d6ac7d4a78529f1a3422f5ba5a1f41e428ac43587eb773ff7cd1170cd0"
+      ],
+      "volume": 62,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-036",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十三·汉纪五十五",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "以婴儿病失其会"
+      ],
+      "file_sha256": [
+        "13a8dc8dac4399119184dc9d71e4a8dcaeb657f7e1c151f782b4e821ffe427f9"
+      ],
+      "volume": 63,
+      "anchor_clauses_checked": 1
+    },
+    {
+      "case_id": "HD-037",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十三·汉纪五十五",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今不如以久持之",
+        "决成败于一战"
+      ],
+      "file_sha256": [
+        "13a8dc8dac4399119184dc9d71e4a8dcaeb657f7e1c151f782b4e821ffe427f9"
+      ],
+      "volume": 63,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-038",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十三·汉纪五十五·许攸奔曹",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "其实可一月",
+        "袁氏辎重万余乘",
+        "在故市乌巢"
+      ],
+      "file_sha256": [
+        "13a8dc8dac4399119184dc9d71e4a8dcaeb657f7e1c151f782b4e821ffe427f9"
+      ],
+      "volume": 63,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-039",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十五·汉纪五十七·赤壁前议",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "如将军不可也",
+        "将军禽操",
+        "宜在今日"
+      ],
+      "file_sha256": [
+        "5b264cdf7de06e81bc8c8778290430d50317de9fc95c13cd5b629181d93decad"
+      ],
+      "volume": 65,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-040",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷七十五·魏纪七",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "不宜并出",
+        "谁敢尔邪"
+      ],
+      "file_sha256": [
+        "9451cf8ecdbb9771844758c052916f4e89a1e008c8d11bafde978d14b6925ace"
+      ],
+      "volume": 75,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-041",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷七十五·魏纪七·高平陵之变",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "我亦不失作富家翁",
+        "奉帝还宫"
+      ],
+      "file_sha256": [
+        "9451cf8ecdbb9771844758c052916f4e89a1e008c8d11bafde978d14b6925ace"
+      ],
+      "volume": 75,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-042",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百零四·晋纪二十六",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "乃能违众举亲",
+        "见其使才"
+      ],
+      "file_sha256": [
+        "ee0c9f7e3448f1ecb9efb845a47ab3a73029643a834b6bd671c8e24499eadb42"
+      ],
+      "volume": 104,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-043",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百四十·唐纪五十六·攻吴房",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "彼以往亡不吾虞",
+        "正可击也"
+      ],
+      "file_sha256": [
+        "26f7f51e7c771f778271b6b4014fae6709622a4537d58cdf3748a9738f59eb3a"
+      ],
+      "volume": 240,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-044",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百四十·唐纪五十六·吴房与蔡州行动",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "非吾计也",
+        "故存之以分其兵"
+      ],
+      "file_sha256": [
+        "26f7f51e7c771f778271b6b4014fae6709622a4537d58cdf3748a9738f59eb3a"
+      ],
+      "volume": 240,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-045",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·智伯索韩地",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "智伯请地于韩康子",
+        "康子欲弗与",
+        "不如与之",
+        "待事之变矣",
+        "康子曰善"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-046",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·智伯索魏地",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "又求地于魏桓子",
+        "桓子欲弗与",
+        "主不如与之",
+        "以骄智伯",
+        "然后可以择交而图智氏矣"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-047",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十五·唐纪一·薛举进逼高墌",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "薛举悬军深入",
+        "食少兵疲",
+        "若来挑战",
+        "慎勿应也",
+        "俟吾疾愈",
+        "为君等破之"
+      ],
+      "file_sha256": [
+        "1e1aa3223fc28b0b4bb48761277d37f3ad6deaf8267feca065b6525ad120dcc2"
+      ],
+      "volume": 185,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-048",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十六·唐纪二·浅水原再战",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "我军新败",
+        "士气沮丧",
+        "贼恃胜而骄",
+        "宜闭垒以待之",
+        "相持六十余日",
+        "世民度贼已疲",
+        "谓诸将曰可以战矣"
+      ],
+      "file_sha256": [
+        "5647b271ef8b09dfef862e7400dcb645b2d39381c6e076b381e34472df3cd20a"
+      ],
+      "volume": 186,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-049",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今两虎共鬥",
+        "其势不倶生",
+        "吾所以为此者",
+        "以先国家之急而後私仇也"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-050",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传·附赵奢",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今纵君家而不奉公则法削",
+        "法削则国弱",
+        "以君之贵",
+        "奉公如法则上下平"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-051",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传·赵括",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "赵王因以括为将",
+        "蔺相如曰",
+        "赵王不聽"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-052",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传·廉颇",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "赵王使使者视廉颇尚可用否",
+        "郭开多与使者金",
+        "赵王以为老"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-053",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传·附李牧",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "牧曰王必用臣",
+        "乃敢奉令"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-054",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷087·李斯列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "秦王乃除逐客之令",
+        "复李斯官",
+        "卒用其计谋"
+      ],
+      "file_sha256": [
+        "588b66b844059c33470cad8a937e85724a4172d5569de77886a27338f5c94a20"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-055",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷092·淮阴侯列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "汉方不利",
+        "宁能禁信之王乎不如因而立",
+        "汉王亦悟"
+      ],
+      "file_sha256": [
+        "df8abc93d894bf9d6628707237496975f52cc45bb21a1da87accd920b6a11508"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-056",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷092·淮阴侯列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "夫人深亲信我",
+        "我倍之不祥",
+        "虽死不易"
+      ],
+      "file_sha256": [
+        "df8abc93d894bf9d6628707237496975f52cc45bb21a1da87accd920b6a11508"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-057",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·韩赵相攻借师",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "韩借师于魏以伐赵",
+        "文侯曰寡人与赵",
+        "不敢闻命",
+        "赵借师于魏以伐韩",
+        "文侯应之亦然"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-058",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一·周纪一·任座直谏",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "任座曰君得中山",
+        "不以封君之弟而以封君之子",
+        "何谓仁君文侯怒",
+        "使翟璜召任座而反之",
+        "亲下堂迎之",
+        "以为上客"
+      ],
+      "file_sha256": [
+        "bdc08ebe4d5f54b79580593a69aa4d2ba5cb15a78d13689d3ca9a16ca8434e94"
+      ],
+      "volume": 1,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-059",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百三十九·唐纪五十五·田兴归附",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "机会一失",
+        "悔之无及",
+        "乞明旦即降白麻除兴节度使"
+      ],
+      "file_sha256": [
+        "f97736ffdedd6eb3fa77c68dd04ed3693692c0af3f9af2c938c11212af6d986c"
+      ],
+      "volume": 239,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-060",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百三十九·唐纪五十五·裴度遇刺后",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "或请罢度官以安恒郓之心",
+        "上怒曰若罢度官",
+        "是奸谋得成",
+        "朝廷无复纲纪"
+      ],
+      "file_sha256": [
+        "f97736ffdedd6eb3fa77c68dd04ed3693692c0af3f9af2c938c11212af6d986c"
+      ],
+      "volume": 239,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-061",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷087·李斯列传·沙丘之谋",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "于是斯乃听高",
+        "高乃报胡亥曰臣请奉太子之明命以报丞相",
+        "丞相斯敢不奉令"
+      ],
+      "file_sha256": [
+        "588b66b844059c33470cad8a937e85724a4172d5569de77886a27338f5c94a20"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-062",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷087·李斯列传·赵高蔽塞二世",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "二世用其计",
+        "乃不坐朝廷见大臣",
+        "赵高常侍中用事",
+        "事皆决于赵高"
+      ],
+      "file_sha256": [
+        "588b66b844059c33470cad8a937e85724a4172d5569de77886a27338f5c94a20"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-063",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷053·萧相国世家·论功行封",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今诸君徒能得走兽耳",
+        "至如萧何",
+        "发踪指示"
+      ],
+      "file_sha256": [
+        "d90a55a7d8525e8b23b35b9ce486f663e3c17f02d827822df31b0051f784cf3f"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-064",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷056·陈丞相世家·楚汉反间",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "大王诚能出捐数万斤金",
+        "间其君臣",
+        "以疑其心"
+      ],
+      "file_sha256": [
+        "7987416061942e0d1d6d84c8dd8fe16100b7a57412ce6cc3ab25cec466c86571"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-065",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷089·张耳陈馀列传·巨鹿后决裂",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "张耳乃佩其印",
+        "收其麾下",
+        "由此陈馀张耳遂有却"
+      ],
+      "file_sha256": [
+        "f9c140080504b53a25ddc6cc884a3f1956c4bb5294953823c4355a875e393c3d"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-066",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷089·张耳陈馀列传·项羽分封",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "张耳与馀功等也",
+        "今张耳王",
+        "此项羽不平"
+      ],
+      "file_sha256": [
+        "f9c140080504b53a25ddc6cc884a3f1956c4bb5294953823c4355a875e393c3d"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-067",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷008·高祖本纪·荥阳突围",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "将军纪信乃乘王驾",
+        "诈为汉王",
+        "以故汉王得与数十骑出西门遁"
+      ],
+      "file_sha256": [
+        "dcee00ce237d6b1a29fb0775e54643fde51e7555d9b5a2ec861b3df62e207052"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-068",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷082·田单列传·即墨反攻",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "田单知士卒之可用",
+        "乃身操版插",
+        "与士卒分功",
+        "妻妾编于行伍之闲",
+        "尽散饮食飨士"
+      ],
+      "file_sha256": [
+        "405aa93dbcf5b12b02d0f3925108ecadf47db8277c7064dd58db1a54752108ec"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-069",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷106·吴王濞列传·诛晁错",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "我已为东帝",
+        "尚何谁拜"
+      ],
+      "file_sha256": [
+        "8e56718b0d386713359d55e770768ce0ff2aeeea155924662c097ba5e7d8bc4d"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-070",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷007·项羽本纪·鸿沟和约",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "项王已约",
+        "乃引兵解而东归",
+        "汉欲西归",
+        "张良陈平说曰",
+        "汉王听之"
+      ],
+      "file_sha256": [
+        "95018d90932421252647bacda57ee2e89e37c06ef14188bdf4530260637c030b"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-071",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷007·项羽本纪·固陵会师",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "楚兵且破",
+        "信越未有分地",
+        "其不至固宜",
+        "君王能与共分天下",
+        "今可立致也"
+      ],
+      "file_sha256": [
+        "95018d90932421252647bacda57ee2e89e37c06ef14188bdf4530260637c030b"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-072",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百一十九·唐纪三十五·史思明拥兵自重",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "安庆绪以史思明为范阳节度使",
+        "兼领恒阳军事",
+        "封妫川王"
+      ],
+      "file_sha256": [
+        "cefa718be2989de9742711117bd8de8dc48db9f3c82f4b54dcda3d482311b573"
+      ],
+      "volume": 219,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-073",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百六十一·唐纪七十七·刘仁恭背李克用",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "李克用取幽州",
+        "表刘仁恭为节度使",
+        "留戍兵及腹心将十人典其机要"
+      ],
+      "file_sha256": [
+        "532b410792d56938cd2e38bfbf48e1b55415b861df34c726d591d943743d08f5"
+      ],
+      "volume": 261,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-074",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百二十·唐纪三十六·甄济避禄山",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "济察禄山有异志",
+        "诈得风疾"
+      ],
+      "file_sha256": [
+        "3b871765883601d4c988559ba98857b048958cc8ef45edd21a0b441bac25d46e"
+      ],
+      "volume": 220,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-075",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十四·汉纪五十六·袁氏继承",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "绍欲以为后而未显言之",
+        "乃以谭断兄后",
+        "出为青州刺史"
+      ],
+      "file_sha256": [
+        "d4ecd5674c99286765f23cfdb660e00b51900f78d7606bd474e1882bdfc26bcd"
+      ],
+      "volume": 64,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-076",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十·汉纪五十二·献帝初平三年（192）·王允谋诛董卓",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "布由是阴怨于卓",
+        "卓又使布守中",
+        "而私于傅婢",
+        "益不自安",
+        "王允素善待布",
+        "布遂许之"
+      ],
+      "file_sha256": [
+        "cb9ddf4f06b53aab4ac32203f767a053fb4254564939aa5cdffcb0b7134a5b0b"
+      ],
+      "volume": 60,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-077",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百一十一·唐纪二十七·玄宗开元五年（717）·姜皎放归",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "宋言皎兄弟权宠太盛",
+        "非所以安之",
+        "上亦以为然",
+        "皎宜放归田园",
+        "散官勋封皆如故"
+      ],
+      "file_sha256": [
+        "c64bf8ba86f28cf7dad17ffe2811a80ab478eeb8ee8a4ffe51be20e1def6e2fe"
+      ],
+      "volume": 211,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-078",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百二十六·唐纪四十二·德宗建中二年（781）·李惟岳求袭",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "爵命不足以已乱而适足以长乱也",
+        "然则惟岳必为乱",
+        "命与不命等耳"
+      ],
+      "file_sha256": [
+        "87d2cc5314ad98aab8f699577159a56f3d7268abda01d058c37732ddf8d955c5"
+      ],
+      "volume": 226,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-079",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷十一·汉纪三·高帝六年（前201）·云梦擒韩信",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今兵不如楚精而将不能及",
+        "举兵攻之",
+        "是趣之战也",
+        "伪游云梦",
+        "会诸侯于陈"
+      ],
+      "file_sha256": [
+        "7724f657f7bd9c5a301dc276f2105d443bbbd9d0867b5e187dc3b084ce77045d"
+      ],
+      "volume": 11,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-080",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十六·汉纪五十八·献帝建安十五年（210）·鲁肃劝借荆州",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "鲁肃劝权以荆州借刘备",
+        "与共拒曹操"
+      ],
+      "file_sha256": [
+        "16cb7574176b20f9d89118d21e37316bffae0f61c5ad42a34afcb0a7f0609bff"
+      ],
+      "volume": 66,
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-081",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十七·汉纪五十九·献帝建安二十年（215）·孙刘争荆州",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "权曰此假而不反",
+        "乃欲以虚辞引岁也",
+        "遂置长沙零陵桂阳三郡长吏",
+        "关羽尽逐之"
+      ],
+      "file_sha256": [
+        "ffa84e4ac488b4ecd40396c0a4c2a97a27fd338ae45dae700ad128ddfaec9e0f"
+      ],
+      "volume": 67,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-082",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二十一·汉纪十三·武帝太初三年（前102）·再伐大宛",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "汉既亡浞野之兵",
+        "公卿议者皆愿罢宛军",
+        "专力攻胡",
+        "天子业出后诛宛",
+        "宛小国而不能下",
+        "为外国笑"
+      ],
+      "file_sha256": [
+        "16dc14dffafe095c66b22547567c5e595ffcb82753fecf1dc4deff7c8cb36a22"
+      ],
+      "volume": 21,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-083",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百二十六·唐纪四十二·德宗建中二年（781）·邢曹俊劝止围临",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今顿兵坚城之下",
+        "粮竭卒尽",
+        "自亡之道也",
+        "不若置万兵于崞口以遏西师"
+      ],
+      "file_sha256": [
+        "87d2cc5314ad98aab8f699577159a56f3d7268abda01d058c37732ddf8d955c5"
+      ],
+      "volume": 226,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-083",
+      "ref_index": 1,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百二十七·唐纪四十三·德宗建中二年（781）·临之战",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "时悦攻临",
+        "累月不拔",
+        "燧等进军至临",
+        "悦悉众力战",
+        "悦兵大败"
+      ],
+      "file_sha256": [
+        "39bd8ad93e52f4c3f4732a4aa9e2f7fdbb5640d7e254ee9137afdbc1e0f2d33a"
+      ],
+      "volume": 227,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-084",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二十二·汉纪十四·武帝征和四年（前89）·轮台诏",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今又请远田轮台",
+        "欲起亭隧",
+        "是扰劳天下",
+        "非所以优民也",
+        "朕不忍闻"
+      ],
+      "file_sha256": [
+        "7669434464cbdfbb9224ceee77c825abf0f09f60aaae230f68c08c20daa7594e"
+      ],
+      "volume": 22,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-085",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷十六·汉纪八·景帝前三年（前154）·周亚夫平七国",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "上使告条侯救梁",
+        "亚夫不奉诏",
+        "坚壁不出",
+        "而使弓高侯等将轻骑兵出淮泗口",
+        "绝吴楚兵后",
+        "塞其饷道"
+      ],
+      "file_sha256": [
+        "32c70d838e24672a7d2e3c623a796626962b49ba606796da4467f91cfbecacb6"
+      ],
+      "volume": 16,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-086",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷五·周纪五·周赧王五十七年（前258）·白起拒邯郸",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "武安君曰邯郸实未易攻也",
+        "且诸侯之救日至",
+        "破秦军必矣",
+        "王自命不行",
+        "乃使应侯请之",
+        "武安君终辞疾"
+      ],
+      "file_sha256": [
+        "a2213ae305606cdca955a3a247feb7a245d817a8113a2e2f6fd1c27dcb0e51fc"
+      ],
+      "volume": 5,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-087",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷092·淮阴侯列传·萧何追韩信",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "信数与萧何语",
+        "何闻信亡",
+        "不及以闻"
+      ],
+      "file_sha256": [
+        "93bba399c454da397849a645473170487583b6558c4c3c8781a857e201e372f0"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-088",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷005·秦本纪·殽败后复任三将",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "缪公素服郊迎",
+        "孤以不用百里傒蹇叔言以辱三子",
+        "三子何罪乎"
+      ],
+      "file_sha256": [
+        "92d2b7779a5c7185bcdd5f2019fb12516cbc34e2e3672730cd7e29a9ee24ca5b"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-089",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十五·汉纪五十七·献帝建安十三年（208）·甘宁去黄祖",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "祖由是得免",
+        "待宁如初",
+        "祖都督苏飞数荐宁"
+      ],
+      "file_sha256": [
+        "5b264cdf7de06e81bc8c8778290430d50317de9fc95c13cd5b629181d93decad"
+      ],
+      "volume": 65,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-090",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十五·汉纪五十七·献帝建安十三年（208）·孙权用甘宁",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "宁遂亡奔孙权",
+        "周瑜吕蒙共荐达之",
+        "同于旧臣"
+      ],
+      "file_sha256": [
+        "5b264cdf7de06e81bc8c8778290430d50317de9fc95c13cd5b629181d93decad"
+      ],
+      "volume": 65,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-091",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷九·汉纪一·高帝元年（前206）·鸿门宴前项伯夜告张良",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "楚左尹项伯者",
+        "项羽季父也",
+        "素善张良",
+        "乃夜驰之沛公军",
+        "私见张良",
+        "具告以事"
+      ],
+      "file_sha256": [
+        "c3a449fd1f049404fb5cb21a2b724f21687f1123b7805e349babdcf0f1103ccd"
+      ],
+      "volume": 9,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-092",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷081·廉颇蔺相如列传·附李牧",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "秦多与赵王宠臣郭开金",
+        "言李牧司马尚欲反"
+      ],
+      "file_sha256": [
+        "17128e7be221d9bb75e696e74c4b8c9d702dc10d1c3d5c3c5f835b43a0840567"
+      ],
+      "anchor_clauses_checked": 2
+    },
+    {
+      "case_id": "HD-093",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷五十九·汉纪五十一·灵帝中平六年（189）·何进召外兵",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "绍等又为画策",
+        "多召四方猛将及诸豪杰",
+        "使并引兵向京城",
+        "以胁太后"
+      ],
+      "file_sha256": [
+        "9656319c0301ee9e46f2515c2cdaea19a5298befc67766c521c34787f3aaba56"
+      ],
+      "volume": 59,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-094",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六十二·汉纪五十四·献帝建安元年（196）·曹操迎天子",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "曹操在许",
+        "谋迎天子",
+        "众以为山东未定",
+        "使豪杰生心",
+        "后虽为虑",
+        "亦无及矣"
+      ],
+      "file_sha256": [
+        "cabd15d6ac7d4a78529f1a3422f5ba5a1f41e428ac43587eb773ff7cd1170cd0"
+      ],
+      "volume": 62,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-095",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷六·秦纪一·秦王政二年（前245）·廉颇出奔魏",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "赵孝成王薨",
+        "子悼襄王立",
+        "使武襄君乐乘代廉颇",
+        "攻武襄君",
+        "武襄君走",
+        "廉颇出奔魏"
+      ],
+      "file_sha256": [
+        "d72da7512020dcc4092b9d14201094cdebee39b6e8a2a3234a5f0206ccf1e541"
+      ],
+      "volume": 6,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-096",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷九·汉纪一·高帝元年（前206）·项羽分封",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "项羽使人致命怀王",
+        "怀王曰如约",
+        "羽与范增疑沛公",
+        "而业已讲解",
+        "又恶负约",
+        "故立沛公为汉王"
+      ],
+      "file_sha256": [
+        "c3a449fd1f049404fb5cb21a2b724f21687f1123b7805e349babdcf0f1103ccd"
+      ],
+      "volume": 9,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-097",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷十一·汉纪三·高帝六年（前201）·先封雍齿",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今急先封雍齿",
+        "则群臣人人自坚矣",
+        "于是上乃置酒",
+        "封雍齿为什方侯"
+      ],
+      "file_sha256": [
+        "7724f657f7bd9c5a301dc276f2105d443bbbd9d0867b5e187dc3b084ce77045d"
+      ],
+      "volume": 11,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-098",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十七·唐纪十三·太宗贞观十七年（643）·高士廉逊位",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "右仆射高士廉逊位",
+        "其开府仪同三司勋封如故",
+        "仍同门下中书三品"
+      ],
+      "file_sha256": [
+        "d40a7f0ba325fedff22bdb4514cb8a645052939c4f06731265de838798fe6606"
+      ],
+      "volume": 197,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-099",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷055·留侯世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "今以三寸舌为帝者师",
+        "此布衣之极",
+        "于良足矣",
+        "愿弃人间事",
+        "欲从赤松子游耳"
+      ],
+      "file_sha256": [
+        "b66c76bdf36dffe9466922c7f08dbfde0dd227ed365ce61b94769c2e934456a0"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-100",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷十·汉纪二·高帝三年（前204）·范增请归",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "项王果大疑亚父",
+        "亚父欲急攻下荥阳城",
+        "项王不信",
+        "亚父闻项王疑之",
+        "乃怒曰天下事大定矣",
+        "君王自为之",
+        "愿赐骸骨"
+      ],
+      "file_sha256": [
+        "d2dd5b88f0b6f2e2b4e33fa17d3196a954797ee75208955a8e4e2655eb712638"
+      ],
+      "volume": 10,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-101",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十二·隋纪六·炀帝大业九年（613）·再议伐高丽",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "诏宇文述以兵粮不继",
+        "遂陷王师",
+        "乃军吏失于支料",
+        "非述之罪",
+        "宜复其官爵",
+        "乃复议伐高丽"
+      ],
+      "file_sha256": [
+        "5dfd2cd46f8fa8256a7d3ea451385b676ad1637fdfaa921cce1403860f1823c0"
+      ],
+      "volume": 182,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-102",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十二·隋纪六·炀帝大业十年（614）·第三次征高丽",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "诏百僚议伐高丽",
+        "无敢言者",
+        "诏复征天下兵",
+        "百道俱进"
+      ],
+      "file_sha256": [
+        "5dfd2cd46f8fa8256a7d3ea451385b676ad1637fdfaa921cce1403860f1823c0"
+      ],
+      "volume": 182,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-103",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十二·隋纪六·炀帝大业十年（614）·来护儿拒绝班师",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "护儿集众曰大军三出",
+        "未能平贼",
+        "此还不可复来",
+        "劳而无功",
+        "吾窃耻之",
+        "答表请行",
+        "不肯奉诏"
+      ],
+      "file_sha256": [
+        "5dfd2cd46f8fa8256a7d3ea451385b676ad1637fdfaa921cce1403860f1823c0"
+      ],
+      "volume": 182,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-104",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百八十三·隋纪七·炀帝大业十二年（616）·苏威报盗情",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "比见奏贼皆不以实",
+        "遂使失于支计",
+        "不时翦除",
+        "又昔在雁门",
+        "许罢征辽",
+        "今复征发",
+        "贼何由息帝不悦而罢"
+      ],
+      "file_sha256": [
+        "cf4a833e834cb445c10e8d1d7fd6eae88de7e01486f5755961c41aaed9ba1561"
+      ],
+      "volume": 183,
+      "anchor_clauses_checked": 7
+    },
+    {
+      "case_id": "HD-105",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十七·唐纪十三·太宗贞观十七年（643）·绝薛延陀婚",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "上曰吾已许之矣",
+        "岂可为天子而食言乎",
+        "上乃下诏绝其婚",
+        "褚遂良上疏",
+        "臣为国家惜兹声听"
+      ],
+      "file_sha256": [
+        "d40a7f0ba325fedff22bdb4514cb8a645052939c4f06731265de838798fe6606"
+      ],
+      "volume": 197,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-106",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷六十八·商君列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "秦王一旦捐宾客而不立朝",
+        "亡可翘足而待",
+        "商君弗从",
+        "后五月而秦孝公卒",
+        "发吏捕商君"
+      ],
+      "file_sha256": [
+        "db86934186fbdbcd2b41369cd950a42aa3012f7f50a31c40dd152b154dfc5904"
+      ],
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-107",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷九十二·淮阴侯列传",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "项羽已破",
+        "高祖袭夺齐王军",
+        "汉五年正月",
+        "徙齐王信为楚王"
+      ],
+      "file_sha256": [
+        "bf948a47a19d7e1032ed33b874d7b36bc967b9119547644131fdb10a606fed1d"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-108",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷五十六·陈丞相世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "勃功不如臣平",
+        "及诛诸吕",
+        "臣功亦不如勃"
+      ],
+      "file_sha256": [
+        "944bed985a73a459226c31f4c93ef05d6e6af21a472baaf2d155b81d168e073e"
+      ],
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-109",
+      "ref_index": 0,
+      "source_id": "SHIJI_WIKISOURCE",
+      "locator": "《史记》卷五十六·陈丞相世家",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "绛侯谢病请免相",
+        "陈平专为一丞相"
+      ],
+      "file_sha256": [
+        "944bed985a73a459226c31f4c93ef05d6e6af21a472baaf2d155b81d168e073e"
+      ],
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-110",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十九·唐纪十五·太宗贞观二十三年（649）·李勣出叠州",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "上谓太子曰李世才智有余",
+        "然汝与之无恩",
+        "恐不能怀服",
+        "我今黜之",
+        "若其即行",
+        "汝于后用为仆射"
+      ],
+      "file_sha256": [
+        "0f85eeecf0195d4d33fff67083eb3406a7cd2974e8acc09a2379fdd797b06c1b"
+      ],
+      "volume": 199,
+      "anchor_clauses_checked": 6
+    },
+    {
+      "case_id": "HD-111",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十九·唐纪十五·高宗即位（649）·复任李勣",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "高宗即位",
+        "以叠州都督李为特进检校洛州刺史洛阳宫留守",
+        "以李为开府仪同三司同中书门下三品"
+      ],
+      "file_sha256": [
+        "0f85eeecf0195d4d33fff67083eb3406a7cd2974e8acc09a2379fdd797b06c1b"
+      ],
+      "volume": 199,
+      "anchor_clauses_checked": 3
+    },
+    {
+      "case_id": "HD-112",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷一百九十九·唐纪十五·太宗贞观二十三年（649）·临终嘱托长孙无忌",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "无忌尽忠于我",
+        "我有天下",
+        "多其力也",
+        "勿令谗人间之"
+      ],
+      "file_sha256": [
+        "0f85eeecf0195d4d33fff67083eb3406a7cd2974e8acc09a2379fdd797b06c1b"
+      ],
+      "volume": 199,
+      "anchor_clauses_checked": 4
+    },
+    {
+      "case_id": "HD-112",
+      "ref_index": 1,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百·唐纪十六·高宗显庆四年（659）·长孙无忌案",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "上以为然",
+        "竟不引问无忌",
+        "下诏削无忌太尉及封邑",
+        "以为扬州都督",
+        "于黔州安置"
+      ],
+      "file_sha256": [
+        "8fb826491b5b7fe35c22597685b84d55e6158008c13f87639c69e5fc44e267c2"
+      ],
+      "volume": 200,
+      "anchor_clauses_checked": 5
+    },
+    {
+      "case_id": "HD-113",
+      "ref_index": 0,
+      "source_id": "ZZTJ_DRIVE_BAIYANG",
+      "locator": "《资治通鉴》卷二百·唐纪十六·高宗显庆五年（660）·苏定方请全都曼",
+      "status": "ANCHOR_MATCH",
+      "matched_anchors": [
+        "法司请诛都曼",
+        "定方请曰臣许以不死",
+        "故都曼出降",
+        "愿丐其馀生",
+        "上曰朕屈法以全卿之信"
+      ],
+      "file_sha256": [
+        "8fb826491b5b7fe35c22597685b84d55e6158008c13f87639c69e5fc44e267c2"
+      ],
+      "volume": 200,
+      "anchor_clauses_checked": 5
+    }
+  ]
+}

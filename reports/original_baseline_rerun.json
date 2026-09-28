@@ -1,0 +1,50 @@
+{
+  "original_archive_sha256": "a03ca4815852142270944fdd5844ba80eba8d09024d91c0ac13b5957346e2d22",
+  "retrieval": {
+    "top1": 10,
+    "top3": 10,
+    "total": 10
+  },
+  "contrast": {
+    "passed": 8,
+    "total": 8
+  },
+  "end_to_end": {
+    "passed": 5,
+    "total": 5
+  },
+  "regression": {
+    "passed": 18,
+    "total": 18
+  },
+  "database": {
+    "version": "0.9",
+    "records": 113,
+    "active": 110,
+    "deprecated": 3,
+    "source_verified_active": 110,
+    "seed_unverified_active": 0,
+    "sources_active": {
+      "ZZTJ_DRIVE_BAIYANG": 72,
+      "SHIJI_WIKISOURCE": 41
+    },
+    "contrast_pairs": 15,
+    "confirmed_missing_zztj_volumes": [
+      72,
+      73,
+      86,
+      101,
+      156,
+      189,
+      214,
+      215,
+      216,
+      217,
+      218,
+      223
+    ],
+    "errors": [],
+    "warnings": []
+  },
+  "limits": "The original validator checks Wikisource URL shape rather than fetching Wikisource; v1.0 source_anchors.json records separate actual text reads."
+}

@@ -1,0 +1,253 @@
+{
+  "timestamp": "2026-09-28T03:16:20.851220+00:00",
+  "scope": "component",
+  "status": "PASS",
+  "executed": 42,
+  "passed": 42,
+  "failed": 0,
+  "pending_suites": [],
+  "source_recheck": false,
+  "release_allowed": false,
+  "results": [
+    {
+      "id": "entry_0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_2",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_3",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_4",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_5",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_1",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_2",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_3",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "entry_reject_4",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "positive_contract",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "names_without_structure",
+      "status": "PASS",
+      "detail": [
+        "no_structural_support"
+      ]
+    },
+    {
+      "id": "wrong_role",
+      "status": "PASS",
+      "detail": [
+        "role_mismatch"
+      ]
+    },
+    {
+      "id": "opposite_mechanism",
+      "status": "PASS",
+      "detail": [
+        "mechanism_mismatch"
+      ]
+    },
+    {
+      "id": "no_boundary",
+      "status": "PASS",
+      "detail": [
+        "missing_critical_differences"
+      ]
+    },
+    {
+      "id": "unavailable_source",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "source_contradiction",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "old_verified_flag_not_current_read",
+      "status": "PASS",
+      "detail": [
+        "evidence_not_verified"
+      ]
+    },
+    {
+      "id": "missing_contrast",
+      "status": "PASS",
+      "detail": [
+        "contrast_not_verified"
+      ]
+    },
+    {
+      "id": "unchecked_contrast",
+      "status": "PASS",
+      "detail": [
+        "contrast_not_verified"
+      ]
+    },
+    {
+      "id": "outcome_leaked_into_t0",
+      "status": "PASS",
+      "detail": [
+        "hindsight_used_as_t0"
+      ]
+    },
+    {
+      "id": "ancient_power_cancels_modern_rights",
+      "status": "PASS",
+      "detail": [
+        "modern_rights_overtransfer"
+      ]
+    },
+    {
+      "id": "fabricated_user_priorities",
+      "status": "PASS",
+      "detail": [
+        "invented_user_values"
+      ]
+    },
+    {
+      "id": "unknown_source_state",
+      "status": "PASS",
+      "detail": [
+        "invalid_evidence_status"
+      ]
+    },
+    {
+      "id": "truthy_string_is_not_boolean",
+      "status": "PASS",
+      "detail": [
+        "invalid_role_match"
+      ]
+    },
+    {
+      "id": "score_out_of_range",
+      "status": "PASS",
+      "detail": [
+        "invalid_score"
+      ]
+    },
+    {
+      "id": "reject_score_nan",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "reject_score_infinity",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "reject_score_bool",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_decision",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_structural_score",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_role_match",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_mechanism_match",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_critical_differences",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_evidence_status",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_hindsight_used_as_t0",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_modern_rights_overtransfer",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_invented_user_values",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "required_contrast_status",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "honest_abstention",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "id": "invalid_root",
+      "status": "PASS",
+      "detail": null
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "target_version": "1.0.0",
+  "status": "validated",
+  "source_version": "0.9",
+  "source_archive": "history_decision_skill_core_v0.9.zip",
+  "source_sha256": "a03ca4815852142270944fdd5844ba80eba8d09024d91c0ac13b5957346e2d22",
+  "imported": true,
+  "counts": {
+    "active": 110,
+    "deprecated": 3,
+    "contrast_pairs": 15
+  },
+  "missing": [],
+  "release_allowed": true
+}
